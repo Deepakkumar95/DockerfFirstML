@@ -16,3 +16,10 @@ pip install -r requirements.txt
 
 """
 
+####Run the below command in terminal to build docker image after docker desktop application.
+"""
+
+docker build -t diamondprediction:latest .
+
+"""
+
